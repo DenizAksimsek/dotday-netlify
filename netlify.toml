@@ -1,0 +1,3 @@
+[build]
+publish="iCalendar"
+command="npx dotday Days/ Output/cal.ics"
